@@ -7,7 +7,7 @@ A modern supply chain with auth
 
 
 ```
-go get -u github.com/ethereum/go-ethereum
+## go get -u github.com/ethereum/go-ethereum
 cd $GOPATH/src/github.com/ethereum/go-ethereum/
 make
 make devtools
